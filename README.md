@@ -2,10 +2,10 @@
 <img width="813" height="333" alt="Screenshot 2026-04-23 003310" src="https://github.com/user-attachments/assets/33524b19-27b5-47d4-8252-6f99635ef9fb" />
 <img width="1908" height="959" alt="Screenshot 2026-04-23 003426" src="https://github.com/user-attachments/assets/699e48aa-dcc8-41f9-bc4a-46b177a0c171" />
 <img width="1882" height="985" alt="Screenshot 2026-04-23 003508" src="https://github.com/user-attachments/assets/bc5f47f4-1b13-4fc7-8ca9-904772e3808e" />
-<img width="1873" height="496" alt="Screenshot 2026-04-23 004131" src="https://github.com/user-attachments/assets/9973f6cd-b61b-40fc-b855-6e0032424c65" />
+<img width="1883" height="1027" alt="Screenshot 2026-04-23 003531" src="https://github.com/user-attachments/assets/99536de0-54c3-4a3d-bdd8-ac80bf653224" />
 <img width="1853" height="1039" alt="Screenshot 2026-04-23 004113" src="https://github.com/user-attachments/assets/3cc47ac4-7e7e-4922-84d7-1afd9fda8bc3" />
 <img width="1886" height="1003" alt="Screenshot 2026-04-23 003633" src="https://github.com/user-attachments/assets/4e13fc50-1ba6-4074-8cd6-44c739dffead" />
-<img width="1883" height="1027" alt="Screenshot 2026-04-23 003531" src="https://github.com/user-attachments/assets/99536de0-54c3-4a3d-bdd8-ac80bf653224" />
+<img width="1873" height="496" alt="Screenshot 2026-04-23 004131" src="https://github.com/user-attachments/assets/9973f6cd-b61b-40fc-b855-6e0032424c65" />
 
 
 Github: https://github.com/bariyanaaz112/Licious-Dashboard
