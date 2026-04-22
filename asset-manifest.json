@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Licious-dashboard/static/css/main.a169b3eb.css",
-    "main.js": "/Licious-dashboard/static/js/main.405f0748.js",
-    "static/js/453.1e94ae43.chunk.js": "/Licious-dashboard/static/js/453.1e94ae43.chunk.js",
-    "index.html": "/Licious-dashboard/index.html",
-    "main.a169b3eb.css.map": "/Licious-dashboard/static/css/main.a169b3eb.css.map",
-    "main.405f0748.js.map": "/Licious-dashboard/static/js/main.405f0748.js.map",
-    "453.1e94ae43.chunk.js.map": "/Licious-dashboard/static/js/453.1e94ae43.chunk.js.map"
+    "main.css": "/Licious-Dashboard/static/css/main.a169b3eb.css",
+    "main.js": "/Licious-Dashboard/static/js/main.092d8514.js",
+    "static/js/453.1e94ae43.chunk.js": "/Licious-Dashboard/static/js/453.1e94ae43.chunk.js",
+    "index.html": "/Licious-Dashboard/index.html",
+    "main.a169b3eb.css.map": "/Licious-Dashboard/static/css/main.a169b3eb.css.map",
+    "main.092d8514.js.map": "/Licious-Dashboard/static/js/main.092d8514.js.map",
+    "453.1e94ae43.chunk.js.map": "/Licious-Dashboard/static/js/453.1e94ae43.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a169b3eb.css",
-    "static/js/main.405f0748.js"
+    "static/js/main.092d8514.js"
   ]
 }
