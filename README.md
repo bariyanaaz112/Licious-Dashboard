@@ -1,3 +1,10 @@
+<img width="813" height="333" alt="Screenshot 2026-04-23 003310" src="https://github.com/user-attachments/assets/0571cc6f-93c0-4951-8454-1bdd8115e277" />
+<img width="1873" height="496" alt="Screenshot 2026-04-23 004131" src="https://github.com/user-attachments/assets/ad1ca8aa-d1ff-4734-bd2e-9af9dd297c6f" />
+<img width="1853" height="1039" alt="Screenshot 2026-04-23 004113" src="https://github.com/user-attachments/assets/794f9bf3-a7db-4935-9706-b5cd9e1cf69f" />
+<img width="1886" height="1003" alt="Screenshot 2026-04-23 003633" src="https://github.com/user-attachments/assets/bf45ac4e-45cc-4d50-86cd-0063455153f5" />
+<img width="1883" height="1027" alt="Screenshot 2026-04-23 003531" src="https://github.com/user-attachments/assets/4aaf1ca4-8203-4f3f-bbb9-ae735c52139f" />
+<img width="1882" height="985" alt="Screenshot 2026-04-23 003508" src="https://github.com/user-attachments/assets/6d5d2294-0dc5-4453-9d87-e1e4faf9d756" />
+<img width="1908" height="959" alt="Screenshot 2026-04-23 003426" src="https://github.com/user-attachments/assets/bbb1bf71-329b-4cb2-855c-0a8e9eadc1b5" />
 
 Github: https://github.com/bariyanaaz112/Licious-Dashboard
 
