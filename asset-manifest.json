@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Licious-dashboard/static/css/main.a169b3eb.css",
+    "main.js": "/Licious-dashboard/static/js/main.405f0748.js",
+    "static/js/453.1e94ae43.chunk.js": "/Licious-dashboard/static/js/453.1e94ae43.chunk.js",
+    "index.html": "/Licious-dashboard/index.html",
+    "main.a169b3eb.css.map": "/Licious-dashboard/static/css/main.a169b3eb.css.map",
+    "main.405f0748.js.map": "/Licious-dashboard/static/js/main.405f0748.js.map",
+    "453.1e94ae43.chunk.js.map": "/Licious-dashboard/static/js/453.1e94ae43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a169b3eb.css",
+    "static/js/main.405f0748.js"
+  ]
+}
